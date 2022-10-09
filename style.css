@@ -40,11 +40,11 @@ p{
 
 @media(max-width:768px){
     #screen{
-        width: 100%;
+        min-width: 100%;
         margin: 0px;
     }
     .table {
-        width: 100%;
+        max-width: 100%;
     }
 
 };
