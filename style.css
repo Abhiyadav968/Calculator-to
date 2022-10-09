@@ -37,3 +37,9 @@ p{
 .oprator{
     background-color: rgb(132, 132, 130);
 }
+
+@media(max-width:768px){
+    #screen{
+        width: 100%;
+    }
+}
